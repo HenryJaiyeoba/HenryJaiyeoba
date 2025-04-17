@@ -1,12 +1,12 @@
-<p align="center">
-  <h1 align="center">Hello there 👋 Nice to meet you <h1>
-</p>
+<!--<p align="center">
+  <h1 align="center">Hey👀 <h1>
+</p> -->
 
  <div align="center" width="50">
   <img align="center" alt="GIF" src="/mario.gif" />
 </div>
  <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=6622cc&size=30&width=1000&height=100&lines=Welcome+to+My+Workspace;I'm+a+something+Engineer+and+other+things+Developer" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=6622cc&size=40&width=800&height=100&lines=Welcome+to+My+Workspace;I'm+a+something+Engineer+and+other+things+Developer" alt="Typing SVG" /></a>
 </p>
 
 <!--
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Languages and Tools](https://skillicons.dev/icons?i=py,matlab,c,cpp,ros,lua,dart,tensorflow,pytorch,nodejs,ts,react,nextjs,flask,flutter,redux,html,css,postgres,git,github,bootstrap,tailwind,webpack,vscode,neovim)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=py,matlab,c,cpp,ros,lua,dart,tensorflow,pytorch,nodejs,ts,react,nextjs,flask,flutter,redux,postgres,git,tailwind,vscode,neovim)](https://skillicons.dev)
 
 ### Connect with me     
 [![Languages and Frameworks](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/henry-jaiyeoba/) 
