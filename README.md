@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <!-- ![Amanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=amexabee&show_icons=true&bg_color=00000000) -->
 
-![](https://github-readme-stats.vercel.app/api?username=henryjaiyeoba&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=henryjaiyeoba&show_icons=true&theme=transparent)<br/>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=henryjaiyeoba&theme=dark&border_radius=9)](https://git.io/streak-stats)
     
