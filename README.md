@@ -1,12 +1,12 @@
-<!--<p align="center">
+<p align="center">
   <h1 align="center">Hey👀 <h1>
-</p> -->
+</p> 
 
  <div align="center" width="50">
   <img align="center" alt="GIF" src="/mario.gif" />
 </div>
  <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=6622cc&size=40&width=800&height=100&lines=Welcome+to+My+Workspace;I'm+a+something+Engineer+and+other+things+Developer" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=6622cc&size=30&width=1000&height=100&lines=Welcome+to+My+Workspace;I'm+a+something+Engineer+and+other+things+Developer" alt="Typing SVG" /></a>
 </p>
 
 <!--
