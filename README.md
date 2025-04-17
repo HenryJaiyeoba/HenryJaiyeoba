@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 [![Languages and Tools](https://skillicons.dev/icons?i=py,matlab,c,cpp,ros,lua,dart,tensorflow,pytorch,nodejs,ts,react,nextjs,flask,flutter,redux,html,css,postgres,git,github,bootstrap,tailwind,webpack,vscode,neovim)](https://skillicons.dev)
 
 ### Connect with me     
-[![Languages and Frameworks](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/amanuel-galema/) 
+[![Languages and Frameworks](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/henry-jaiyeoba/) 
 
 <!-- ![Amanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=amexabee&show_icons=true&bg_color=00000000) -->
 
-![](https://github-readme-stats.vercel.app/api?username=amexabee&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=henryjaiyeoba&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amexabee&theme=dark&border_radius=9)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=henryjaiyeoba&theme=dark&border_radius=9)](https://git.io/streak-stats)
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amexabee&theme=dark&layout=compact)](https://github.com/amexabee/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henryjaiyeoba&theme=dark&layout=compact)](https://github.com/henryjaiyeoba/github-readme-stats)
