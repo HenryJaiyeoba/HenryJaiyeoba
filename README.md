@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 [![Languages and Tools](https://skillicons.dev/icons?i=py,matlab,c,cpp,ros,lua,dart,tensorflow,pytorch,nodejs,ts,react,nextjs,flask,flutter,redux,postgres,git,tailwind,vscode,neovim)](https://skillicons.dev)
 
-### Connect with me     
+<!--### Connect with me     
 [![Languages and Frameworks](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/henry-jaiyeoba/) 
 
-<!-- ![Amanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=amexabee&show_icons=true&bg_color=00000000) -->
+<!-- ![Amanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=amexabee&show_icons=true&bg_color=00000000)
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henryjaiyeoba&theme=dark&layout=compact)](https://github.com/henryjaiyeoba/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henryjaiyeoba&theme=dark&layout=compact)](https://github.com/henryjaiyeoba/github-readme-stats)-->
